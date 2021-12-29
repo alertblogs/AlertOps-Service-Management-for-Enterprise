@@ -1,40 +1,25 @@
-AlertOps Expert Guidance
+AlertOps Service Management for Enterprise
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Enterprise service management and escalations are not identical. Service management refers to the policies, processes and procedures an enterprise uses to manage incidents from start to finish. Comparatively, escalations represent a service management component. They are used to notify managers and other high-ranking professionals who may be needed to help an incident management team resolve an incident.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+To better understand the differences between service management and escalations, let’s consider an example. If a telecommunications services provider (TSP) suffers a network outage, the company will need to work quickly to alleviate the problem. The business’ incident management team may try to find a short-term solution to ensure customers can regain access to the company’s network. But the longer it takes this incident management team to resolve the incident, the more likely it becomes that the business could suffer revenue losses and brand reputation damage. Additionally, a long-lasting network outage may lead some customers to switch TSPs.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+In the aforementioned scenario, the TSP can use a service management strategy to address the network outage. This plan may include steps to resolve the issue and prevent it from recurring. It also may include escalations to ensure the right stakeholders are kept up to date until the incident is resolved.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+There are clear-cut differences between service management and escalations. Yet some incident monitoring and alerting systems treat service management and escalations the same. As such, enterprises require incident management tools that offer much more than just simple call trees. Instead, enterprises need incident monitoring systems that provide the following service management capabilities:
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+    Automatic Escalations: Sometimes, an enterprise needs to go beyond its support team to respond to an incident. With automatic escalations, an enterprise can ensure the right messages are sent to the right stakeholders, on time, every time. Best of all, automatic escalations allow an incident management team to provide regular status updates to affected stakeholders, as well as incident closure updates.
+    Workflows: Workflows trigger actions, and they may be triggered by a change in incident status or the passage of a specific amount of time. They allow an incident management team to send reminders to affected stakeholders at regular intervals or based on a service-level agreement (SLA) deadline. Plus, with the right workflows in place, incident management team members can stay up to date about incidents until these incidents are fully resolved.
+    SLA-Based Management: Thanks to SLA-based management, an incident management team can define a global SLA based on priority or severity levels, create overrides and trigger time-based escalations and notifications.
+    Message Rules: Message rules define the notification delivery rules and workflow actions for effective alert management. Therefore, an incident management team can use message rule and workflow engines to configure an incident management solution based on its needs.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Ultimately, an incident monitoring system should simplify incident management. By using an incident tracking system that offers advanced capabilities, an incident management team can quickly address incidents and prevent them from getting out of hand.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-service-management-for-enterprise/
 
 Read more:
 ====
